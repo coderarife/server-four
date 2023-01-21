@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Delicate",
+      "featured": true,
+      "author": "Gemma Donoghue",
+      "thumbnail": "https://m.media-amazon.com/images/P/B07DZ86WP7.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": 14,
+      "rating": 3
+    },
+    {
+      "id": 3,
+      "name": "Bones: Anorexia, OCD, and Me",
+      "author": "Jen Dixon",
+      "thumbnail": "https://m.media-amazon.com/images/P/B09WNJNFV8.01._SCLZZZZZZZ_SX500_.jpg",
+      "featured": true,
+      "price": 11.99,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "name": "It Starts with Us: A Novel",
+      "author": "Colleen Hoover",
+      "thumbnail": "https://m.media-amazon.com/images/P/1668001225.01._SCLZZZZZZZ_SX500_.jpg",
+      "featured": false,
+      "price": 10.98,
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "name": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "thumbnail": "https://m.media-amazon.com/images/P/B0B2F9YCJN.01._SCLZZZZZZZ_SX500_.jpg",
+      "featured": true,
+      "price": 13.48,
+      "rating": 5
+    }
+  ]
+}
